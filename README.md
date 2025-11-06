@@ -8,3 +8,4 @@
 # [Lab-07](https://colab.research.google.com/drive/15H4GjyOuf_p6ZMgGpTpwUn4I0XDoTRLg)
 # [lab-08](https://colab.research.google.com/drive/15H4GjyOuf_p6ZMgGpTpwUn4I0XDoTRLg)
 # [Lab-09](https://colab.research.google.com/drive/1eL3AlyM4d9GLUs0YVftgGDEHDuskLvjW#scrollTo=r7_mdnwgeB8C)
+# [Lab-10](https://colab.research.google.com/drive/1VTgLoA_bfKIA-NWafUpa9-JLeIWtQKj1)
